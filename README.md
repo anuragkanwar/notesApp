@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://github.com/khushimitr/TodoNotesApp/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="80px"><br/>NOTAS</h1>
+      <h1> <img src="https://github.com/anuragkanwar/notesApp/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="80px"><br/>NOTAS</h1>
      </div>
 NOTAS has been developed for android devices and is your all-in-one solution to take, save & share notes. NOTAS comes in with a clean and simple user interface and provides a fluid user experience during note taking, the best part being note sharing feature. Let's dive into details of what else it can bring in picture.
 
@@ -74,27 +74,27 @@ The server is implemented with `KTOR` framework and has been hosted on `heroku`.
 ## Screenshots
 
 <p align="center">
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-151931.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-151931.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-152053.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-152053.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-152759.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-152759.png" width="25%" height="33%">
 </p>
 
 <p align="center">
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-135200.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-135200.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-131146.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-131146.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-135526.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-135526.png" width="25%" height="33%">
 </p>
 
 <p align="center">
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-152754.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-152754.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-131030.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-131030.png" width="25%" height="33%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Image" src="https://github.com/khushimitr/notas/blob/master/EXTRA_FILES/Screenshot_20220728-135630.png" width="25%" height="33%">
+  <img alt="Image" src="https://raw.githubusercontent.com/anuragkanwar/notesApp/main/EXTRA_FILES/Screenshot_20220728-135630.png" width="25%" height="33%">
 </p>
 
 
