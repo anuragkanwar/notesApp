@@ -54,7 +54,7 @@ This App showcases:
 For the user cat profile image we have used the api : [robohash](https://robohash.org)
 
 ## Server
-The implementation of the server can be found [here](https://github.com/khushimitr/notesAppServer). 
+The implementation of the server can be found [here](https://github.com/anuragkanwar/notesAppServerKTOR). 
 The server is implemented with `KTOR` framework and has been hosted on `heroku`.
 
 
